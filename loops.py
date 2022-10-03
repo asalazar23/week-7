@@ -60,5 +60,5 @@ def loops_i():
       print(f"evens are {sum_even}")
     else:
       sum_odd = sum_odd + number
-      print(f"evens are {sum_odd}")
+      print(f"odds are {sum_odd}")
   # *Recall from previous days: the modulus 
